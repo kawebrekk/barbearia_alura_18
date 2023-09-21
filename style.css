@@ -1,3 +1,8 @@
-p{
-    text-ali: center;
+body {
+    background:#CCCC;
 }
+em strong {
+    color:aqua(239, 38, 195)
+
+}
+em strong

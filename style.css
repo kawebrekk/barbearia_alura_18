@@ -1,8 +1,16 @@
 body {
     background:#CCCC;
 }
-em strong {
-    color:aqua(239, 38, 195)
-
+#banner {
+   width:100%
 }
-em strong
+.principal{
+backgroud: #cccccc;
+padding:30px;
+}
+p{
+text-align:center
+}
+em strong {
+color:red(239,38,195)
+}
